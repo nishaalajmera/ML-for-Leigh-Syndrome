@@ -12,10 +12,12 @@ Providing accurate prognosis to patients suffering from Leigh syndrome is an unr
     - eli5 0.11.0
 
 2. To install essential libraries run: 
-    `pip install lifelines` 
-    `pip install scikit-learn`
-    `pip install scikit-survival`
-    `pip install eli5`
+```
+    pip install lifelines 
+    pip install scikit-learn
+    pip install scikit-survival
+    pip install eli5
+```
 
 3. Define the path to data when running the script
 
