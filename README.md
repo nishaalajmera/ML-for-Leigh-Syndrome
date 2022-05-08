@@ -46,9 +46,5 @@ Anonymised patient data for this study was obtained from Wellcome Centre for Mit
 - Nishaal Ajmera
 - Coauthors: Dr Stephen McGough, Dr Amy Vincent, Dr Conol Lawless, Atif Khan 
 
-
-
-
-<img src="/docs/newcastle_logo.jpg" style=" width:60px ; height:60px "  >
-
-![Wellcome Centre for mitochondrial research](/docs/wellcomecentre_logo.jpg)
+<img src="/docs/newcastle_logo.jpg" style=" width:180px ; height:80px "  >
+<img src="/docs/wellcomecentre_logo.jpg" style=" width:180px ; height:80px "  >
