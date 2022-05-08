@@ -16,7 +16,7 @@ Four survival analysis machine learning models and a unique deep learning
 model, DeepHit is used to train Leigh syndrome data with 55 patients to predict survival
 times. The Newcastle Paediatric Mitochondrial Disease Scale data with 20 patients is used to
 predict two clinical outcomes, age at feeding inability and immobility using the four machine
-learning models. 
+learning models.(see more in the [full report](/docs/report.pdf))
 
 ![Methodology](docs/LS_methodology.jpg)
 
@@ -24,7 +24,7 @@ learning models.
 The Cox-proportional hazard model with five features was evaluated as
 the best model to predict patient survival. The Cox-proportional hazards model with elastic
 net was evaluated as the best model to predict age of patients with feeding inability. Our
-novel contribution to Leigh syndrome research using survival analysis machine learning and DeepHit could be used to enhance prognosis of patients. 
+novel contribution to Leigh syndrome research using survival analysis machine learning and DeepHit could be used to enhance prognosis of patients (see more in the [report](/report.pdf)). 
 
 ## Installation
 This project was built in an environment with python 3.7.1
@@ -41,7 +41,10 @@ This project was built in an environment with python 3.7.1
 ## Data 
 Anonymised patient data for this study was obtained from Wellcome Centre for Mitochondrial Research, Newcastle. However, the [Leigh Syndrome data](/data/LS_data) is not publicly available.
 [WHO weight percentiles data](/data/WHO_data) was used to calculated weight-for-age percentiles according to [child growth standards](https://www.who.int/tools/child-growth-standards/standards/weight-for-age).
- 
+
 ## Authors
 - Nishaal Ajmera
 - Coauthors: Dr Stephen McGough, Dr Amy Vincent, Dr Conol Lawless, Atif Khan 
+
+![Newcastle University](/docs/newcastle_logo.jpg)
+![Wellcome Centre for mitochondrial research](/docs/wellcomecentre_logo.jpg)
