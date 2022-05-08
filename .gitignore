@@ -2,7 +2,7 @@
 **/.DS_store
 
 # Ignore leigh syndrome data - sensitive 
-data/LS_data/*
+data/LS_data/!*.md
 
 # Ignore notebook checkpoints 
 */.ipynb_checkpoints/*
