@@ -46,4 +46,4 @@ Anonymised patient data for this study was obtained from Wellcome Centre for Mit
 - Nishaal Ajmera
 - Coauthors: Dr Stephen McGough, Dr Amy Vincent, Dr Conol Lawless, Atif Khan 
 
-<img src="/docs/newcastle_logo.jpg" style=" width:200px ; height:80px "  > <img src="/docs/wellcomecentre_logo.jpg" style=" width:200px ; height:80px "  >
+<img src="/docs/newcastle_logo.jpg" style=" width:210px ; height:80px "  > <img src="/docs/wellcomecentre_logo.jpg" style=" width:220px ; height:80px "  >
