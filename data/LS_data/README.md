@@ -1,0 +1,1 @@
+Load Leigh syndrome data here

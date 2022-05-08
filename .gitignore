@@ -1,0 +1,9 @@
+# Ignore Mac configuration files
+**/.DS_store
+
+# Ignore leigh syndrome data - sensitive 
+data/LS_data/!*.md
+
+# Ignore notebook checkpoints 
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
