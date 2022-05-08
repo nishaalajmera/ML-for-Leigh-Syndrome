@@ -29,20 +29,19 @@ novel contribution to Leigh syndrome research using survival analysis machine le
 ## Installation
 This project was built in an environment with python 3.7.1
 
-Instructions:
  [**Machine Learning for Leigh Syndrome notebook**](https://github.com/atifkhanncl/Project-LeighSyndrome/blob/main/MachineLearningLeighSyndrome.ipynb)
 1. To install essential libraries run `pip install -r requirements.txt`
 2. Define the path to data when running the script
 
  [**DeepHit for Leigh Syndrome notebook**](https://github.com/atifkhanncl/Project-LeighSyndrome/blob/main/DeepHitLeighSyndrome.ipynb)
-1. The DeepHit source code needs to be cloned from [DeepHit](https://github.com/chl8856/DeepHit)
+1. The DeepHit source code needs to be cloned from [DeepHit](https://github.com/chl8856/DeepHit) into the `deephit` folder
 3. Define path to data
 2. Define path for  ` % run '.py'` statements for DeepHit repo in local drive
 
 ## Data 
-Anonymised patient data for this study was obtained from Wellcome Centre for Mitochondrial Research, Newcastle. However, this data is not publicly available.
-[WHO weight percentiles](https://www.who.int/tools/child-growth-standards/standards/weight-for-age) data was used to calculated weight-for-age percentiles according to child growth standards.
+Anonymised patient data for this study was obtained from Wellcome Centre for Mitochondrial Research, Newcastle. However, the [Leigh Syndrome data](/data/LS_data) is not publicly available.
+[WHO weight percentiles data](/data/WHO_data) was used to calculated weight-for-age percentiles according to [child growth standards](https://www.who.int/tools/child-growth-standards/standards/weight-for-age).
  
 ## Authors
-Nishaal Ajmera
-Coauthors: Dr Stephen McGough, Dr Amy Vincent, Dr Conol Lawless, Atif Khan 
+- Nishaal Ajmera
+- Coauthors: Dr Stephen McGough, Dr Amy Vincent, Dr Conol Lawless, Atif Khan 
