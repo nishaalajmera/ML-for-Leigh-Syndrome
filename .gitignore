@@ -1,3 +1,9 @@
+# Ignore Mac configuration files
+**/.DS_store
+
+# Ignore Data - sensitive 
 data/*
+
+# Ignore notebook checkpoints 
 */.ipynb_checkpoints/*
 .ipynb_checkpoints
