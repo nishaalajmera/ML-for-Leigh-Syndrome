@@ -16,7 +16,7 @@ Four survival analysis machine learning models and a unique deep learning
 model, DeepHit is used to train Leigh syndrome data with 55 patients to predict survival
 times. The Newcastle Paediatric Mitochondrial Disease Scale data with 20 patients is used to
 predict two clinical outcomes, age at feeding inability and immobility using the four machine
-learning models.(see more in the [full report](/docs/report.pdf))
+learning models (see more in the [full report](/docs/report.pdf)).
 
 ![Methodology](docs/LS_methodology.jpg)
 
